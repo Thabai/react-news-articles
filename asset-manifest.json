@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-news-articles/static/css/main.4799385d.chunk.css",
+    "main.js": "/react-news-articles/static/js/main.fc71f9c6.chunk.js",
+    "main.js.map": "/react-news-articles/static/js/main.fc71f9c6.chunk.js.map",
+    "runtime-main.js": "/react-news-articles/static/js/runtime-main.fc2036f9.js",
+    "runtime-main.js.map": "/react-news-articles/static/js/runtime-main.fc2036f9.js.map",
+    "static/js/2.c694a503.chunk.js": "/react-news-articles/static/js/2.c694a503.chunk.js",
+    "static/js/2.c694a503.chunk.js.map": "/react-news-articles/static/js/2.c694a503.chunk.js.map",
+    "static/js/3.0ac0e7f4.chunk.js": "/react-news-articles/static/js/3.0ac0e7f4.chunk.js",
+    "static/js/3.0ac0e7f4.chunk.js.map": "/react-news-articles/static/js/3.0ac0e7f4.chunk.js.map",
+    "index.html": "/react-news-articles/index.html",
+    "static/css/main.4799385d.chunk.css.map": "/react-news-articles/static/css/main.4799385d.chunk.css.map",
+    "static/js/2.c694a503.chunk.js.LICENSE.txt": "/react-news-articles/static/js/2.c694a503.chunk.js.LICENSE.txt",
+    "static/media/Hail.9d7b57db.png": "/react-news-articles/static/media/Hail.9d7b57db.png",
+    "static/media/Lego.703c6451.png": "/react-news-articles/static/media/Lego.703c6451.png",
+    "static/media/Llama.1882a07c.png": "/react-news-articles/static/media/Llama.1882a07c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc2036f9.js",
+    "static/js/2.c694a503.chunk.js",
+    "static/css/main.4799385d.chunk.css",
+    "static/js/main.fc71f9c6.chunk.js"
+  ]
+}
